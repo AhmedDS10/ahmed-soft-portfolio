@@ -1,3 +1,6 @@
+# Ahmed Soft Portfolio
+# https://ahmedsoft.dev
+
 User-agent: Googlebot
 Allow: /
 
@@ -12,3 +15,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://ahmedsoft.dev/sitemap.xml
