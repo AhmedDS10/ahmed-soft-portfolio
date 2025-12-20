@@ -36,7 +36,7 @@ const Index = () => {
           name="twitter:description"
           content="أحول الأفكار المعقدة إلى حلول برمجية ذكية وآمنة."
         />
-        <link rel="canonical" href="https://ahmedsoft.dev" />
+        <link rel="canonical" href="https://ahmedds.us" />
       </Helmet>
 
       <div className="min-h-screen" dir="rtl">
