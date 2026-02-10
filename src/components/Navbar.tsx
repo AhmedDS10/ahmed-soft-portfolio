@@ -13,9 +13,9 @@ const navLinks = [
 ];
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/ahmedsoft', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com/in/ahmedsoft', label: 'LinkedIn' },
-  { icon: Twitter, href: 'https://twitter.com/ahmedsoft', label: 'Twitter' },
+  { icon: Github, href: 'https://github.com', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://linkedin.com/', label: 'LinkedIn' },
+  { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
 ];
 
 export function Navbar() {
